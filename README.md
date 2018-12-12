@@ -1,4 +1,4 @@
-# Neural Machine Translation withPluggable Denoise Function
+# Neural Machine Translation with Pluggable Denoise Function
 
 Brief Introduction
 
