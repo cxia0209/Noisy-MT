@@ -1,5 +1,4 @@
-# Noisy-MT
-Noisy machine translation, final project for 11731
+# Neural Machine Translation withPluggable Denoise Function
 
 Brief Introduction
 
